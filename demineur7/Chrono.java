@@ -1,4 +1,4 @@
-package demineur7;
+package DemineurInterface.Demineur.demineur7;
 
 import java.util.TimerTask;
 

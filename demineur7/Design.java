@@ -1,4 +1,4 @@
-package demineur7;
+package DemineurInterface.Demineur.demineur7;
 
 import java.awt.Canvas;
 import java.awt.Color;
@@ -53,7 +53,7 @@ public class Design extends Canvas implements MouseListener{
 	                     g.setColor (Color.MAGENTA);
 	                     g.drawOval (11 + i * DemTest.pas, 11 + j * DemTest.pas, DemTest.pas - 2, DemTest.pas - 2);
 	                 }
-	//case à contenu encore inconnu : couleur bleue
+	//case à contenu encore inconnu : couleur orange
 	                 else if (grilleij >= 0) {
 	                     g.setColor (Color.ORANGE);
 	                     g.fillRect (11 + i * DemTest.pas, 11 + j * DemTest.pas, DemTest.pas - 2, DemTest.pas - 2);

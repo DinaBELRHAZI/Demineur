@@ -1,9 +1,7 @@
-package demineur7;
+package DemineurInterface.Demineur.demineur7;
 
 
-//import javax.swing.JFrame;
-//
-//import demineur3.Chrono;
+
 import java.awt.* ;
 import java.awt.event.* ;
 import java.util.* ;
